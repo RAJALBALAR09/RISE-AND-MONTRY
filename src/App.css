@@ -1,0 +1,59 @@
+.text{
+  font-size:60px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 900;
+}
+.bg{
+  background-color:#272B33;
+  /* width:50%; */
+  margin-top: 100px;
+}
+.img_item img{
+  object-fit:cover;
+  /* width: 100%; */
+}
+.text_1{
+  width:600px;
+  height:270px;
+  overflow: hidden;
+  background:rgb(60,62,68);
+  border-radius:10px; 
+  margin: 30px;
+}
+.text_3{
+  color: #fff;
+  margin-left: 10px;
+}
+.dots{
+  width:10px;
+  height:10px;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-right:5px;
+}
+.name{
+  font-size:30px;
+  font-weight: 900;
+  margin-top: 10px;
+}
+.status{
+  margin-top:-10px;
+  font-weight:500;
+}
+.loc{
+  color: gray;
+  font-weight: 600;
+}
+.loc_name{
+  font-size:20px;
+  margin-top: -15px;
+}
+.Gender{
+  color: gray;
+}
+.gen{
+  margin-top:-20px;
+  font-weight:600;
+}
